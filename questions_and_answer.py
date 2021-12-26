@@ -48,4 +48,4 @@ else:
 total = (score/questions) * 100
 
 print("Your score is : {:.1f}%".format(total))
-print("This end, Goodbye...")
+print("It is finished, Goodbye...")
